@@ -10,9 +10,13 @@
 | ----------------------            | :--------------------:|
 | code 102                                                  ||
 | Read: 01 file                     | [A Bout GetHub Pages And Markdwan](https://github.com/ayazahra-oss/Reading-Notes/blob/main/Read01.md)
-| R
-| R
-| R
-| R
-| R
+| Read: 02 file                     | [WHAT IS GIT?](https://github.com/ayazahra-oss/Reading-Notes/blob/main/Read02.md)
+| Read: 03 file                     | [wireframing-language HTML-Semantics](https://github.com/ayazahra-oss/Reading-Notes/blob/main/read03.md)
+| Read: 04 file                     | [What You know About JavaScript-JavaScript uses](https://github.com/ayazahra-oss/Reading-Notes/blob/main/reado4.md)
+| Read: 05 file                     | [Expressions and operators-Loops and iteration](https://github.com/ayazahra-oss/Reading-Notes/blob/main/read05.md)
+| Read: 06 file                     | [Control flow-what are JavaScript Functions](https://github.com/ayazahra-oss/Reading-Notes/blob/main/read06.md)
+| Read: 66 file                     | [What is CSS-How To Add CSS](https://github.com/ayazahra-oss/Reading-Notes/blob/main/read066.md)
 | code 201                                                  ||
+
+
+using Github pages by aya zahra.
