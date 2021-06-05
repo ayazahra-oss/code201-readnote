@@ -9,7 +9,7 @@
 | section                           | link 
 | ----------------------            | :--------------------:|
 | code 102                                                  ||
-| Read: 01 file                     | [
+| Read: 01 file                     | [A Bout GetHub Pages And Markdwan](https://github.com/ayazahra-oss/Reading-Notes/blob/main/Read01.md)
 | R
 | R
 | R
