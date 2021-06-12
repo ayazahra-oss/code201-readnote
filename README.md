@@ -16,7 +16,16 @@
 | Read: 05 file                     | [Expressions and operators-Loops and iteration](https://github.com/ayazahra-oss/Reading-Notes/blob/main/read05.md)
 | Read: 06 file                     | [Control flow-what are JavaScript Functions](https://github.com/ayazahra-oss/Reading-Notes/blob/main/read06.md)
 | Read: 66 file                     | [What is CSS-How To Add CSS](https://github.com/ayazahra-oss/Reading-Notes/blob/main/read066.md)
+
 | code 201                                                  ||
+| Readings |      Links  | 
+|----------|-------------|
+| Read: 001 - Introductory HTML and JavaScript |  [Read001](Read001) | 
+| Read: 002 -  HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read002](Read002)  |  
+| Read: 003 - Dynamic web pages with JavaScript | [Read003](Read003) |
+| Read: 004 - HTML Links, CSS Layout, JS Functions | [Read004](Read004) |
+| Read: 005 - HTML Images; CSS Color & Text | [Read005](Read005) |
+| Read: 006 - Problem Domain, Objects, and the DOM | [Read006](Read006) |
 
 
 using Github pages by aya zahra.
