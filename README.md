@@ -30,5 +30,5 @@
 | Read: 005 - | [HTML Images; CSS Color & Text](read005) |
 | Read: 006 - | [Problem Domain, Objects, and the DOM](read006) |
 | Read: 007 - | [Domain Modeling,Generate random numbers](read007) |
-
+| Read: 0010- | [Chapter 10. Debugging and Error Handling](read0010) |
 using Github pages by aya zahra.
