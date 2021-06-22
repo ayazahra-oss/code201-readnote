@@ -23,12 +23,13 @@
 
 | section |      Links  | 
 |----------|-------------|
-| Read: 001 - |  [Introductory HTML and JavaScript](read001) | 
+| Read: 001 - |  [Introductory HTML and JavaScript](read001)                               | 
 | Read: 002 - | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read002)  |  
-| Read: 003 - | [Dynamic web pages with JavaScript](read003) |
-| Read: 004 - | [HTML Links, CSS Layout, JS Functions](read004) |
+| Read: 003 - | [Dynamic web pages with JavaScript](read003)                               |
+| Read: 004 - | [HTML Links, CSS Layout, JS Functions](read004)                            |  
+|
 | Read: 005 - | [HTML Images; CSS Color & Text](read005) |
-| Read: 006 - | [Problem Domain, Objects, and the DOM](read006) |
+| Read: 006 - | [Problem Domain, Objects, and the DOM](read006)                             |
 | Read: 007 - | [Domain Modeling,Generate random numbers](read007) |
 | Read: 010 - | [Chapter 10. Debugging and Error Handling](read010) |
 | Read: 14a - | [ CSS Transforms Transitions & Animations](read14a) |
