@@ -33,4 +33,5 @@
 | Read: 007 - | [Domain Modeling,Generate random numbers](read007)                         |
 | Read: 010 - | [Chapter 10. Debugging and Error Handling](read010)                        |
 | Read: 14a - | [ CSS Transforms Transitions & Animations](read14a)                        |
+| Read: 14b - | [ What Google Learned From Its Quest to Build the Perfect Team](read14b)   |
 using Github pages by aya zahra.
