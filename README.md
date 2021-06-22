@@ -18,12 +18,12 @@
 | Read: 66 file                     | [What is CSS-How To Add CSS](https://github.com/ayazahra-oss/Reading-Notes/blob/main/read066.md)
 
 
-                                                 ||
+                                                 
 
 
 | section |      Links  | 
 |---------|-------------|
-| code 201               ||
+| code 201              ||
 | Read: 001 - |  [Introductory HTML and JavaScript](read001)                               | 
 | Read: 002 - | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read002)  |  
 | Read: 003 - | [Dynamic web pages with JavaScript](read003)                               |
