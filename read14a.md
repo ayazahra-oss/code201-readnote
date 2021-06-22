@@ -65,3 +65,31 @@ All of these effects (bar one) are controlled with the transition property. So w
     <div></div>
 </body>
 </html>
+
+**Having done so, set its width and height (so it has dimensions), its background color (so we can see it) and its transition property.
+
+<style type="text/css">
+body > div
+{
+            width:483px;
+            height:298px;
+            background:#676470;
+            transition:all 0.3s ease;
+}
+</style>
+
+#### Fade in
+
+Having things fade in is a fairly common request from clients. It’s a great way to emphasize functionality or draw attention to a call to action.
+
+Fade in effects are coded in two steps: first, you set the initial state; next, you set the change, for example on hover:
+
+**.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+(Make sure you set the class of your div to “fade” to see this working.)
