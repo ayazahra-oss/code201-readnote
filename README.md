@@ -31,7 +31,10 @@
 | Read: 005 - | [HTML Images; CSS Color & Text](read005)                                   |
 | Read: 006 - | [Problem Domain, Objects, and the DOM](read006)                            |
 | Read: 007 - | [Domain Modeling,Generate random numbers](read007)                         |
+| Read: 008 - | []()                                                                       |
+| Read: 009 - | []()                                                                       |
 | Read: 010 - | [Chapter 10. Debugging and Error Handling](read010)                        |
+| Read: 013 - | [LOCAL STORAGE FOR WEB APPLICATIONS](read13)                               |
 | Read: 14a - | [ CSS Transforms Transitions & Animations](read14a)                        |
 | Read: 14b - | [ What Google Learned From Its Quest to Build the Perfect Team](read14b)   |
 using Github pages by aya zahra.
